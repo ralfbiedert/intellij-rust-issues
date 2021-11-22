@@ -1,5 +1,4 @@
 [workspace]
 members = [
     "core",
-#    "proc_macros",
 ]
